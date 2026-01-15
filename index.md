@@ -21,3 +21,4 @@ public static void main(String[] args) {
 }
 ```
 
+[Page 2](page2.html)
